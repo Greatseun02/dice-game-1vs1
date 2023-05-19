@@ -1,3 +1,7 @@
+DICE GAME
+
+LIVE SITE: https://greatseun02.github.io/dice-game-1vs1/
+
 The website is a game that generates random die numbers for each player when the page is refreshed.
 
 If the first die number is greater than the second die, then the first player wins.
