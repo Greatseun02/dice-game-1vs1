@@ -42,3 +42,9 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+@media screen and (min-width: 480px) {
+  .container{
+    margin-top: 100px;
+  }
+}
