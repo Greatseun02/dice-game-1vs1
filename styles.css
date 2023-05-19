@@ -43,7 +43,7 @@ footer {
 }
 
 
-@media (width < 480px) {
+@media (max-width: 480px) {
   .container{
     margin-top: 30%
   }
@@ -54,8 +54,6 @@ footer {
     margin: 20px;
   }
   .dice {
-    text-align: center;
-    display: inline-block;
     margin-top: 10%;
   }
   p{
